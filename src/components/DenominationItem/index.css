@@ -1,0 +1,16 @@
+.value {
+  font-size: 20px;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  background-color: #382f5a;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #c4c4c4;
+  width:100%;
+  border-radius: 4px;
+}
+.list-item {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 45px;
+}

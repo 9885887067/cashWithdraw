@@ -1,0 +1,85 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cashwithdraw-container {
+  background-color: #150b3e;
+  border-radius: 15px;
+  width: 80%;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 8px;
+  max-width: 350px;
+}
+.initial-container {
+  display: flex;
+}
+.name-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c7d2fe;
+  height: 46px;
+  width: 46px;
+
+  border-radius: 25px;
+}
+
+.initial {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #7c3aed;
+}
+.name {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  padding-left: 20px;
+}
+.balance-container {
+  display: flex;
+
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.balance {
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.available-bal {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.sub-para {
+  text-align: right;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #585076;
+}
+
+.heading {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.desc {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  justify-content: space-between;
+}
+.span{
+  color:#585076;
+  font-size: 12px;
+  
+}
